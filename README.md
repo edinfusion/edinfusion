@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="480" height="270" src="https://github.com/edinfusion/edinfusion/blob/main/text3.gif">
+  <img width="480" height="470" src="https://github.com/edinfusion/edinfusion/blob/main/text3.gif">
 </p>
 <p align="center">
   <img width="480" height="270" src="https://github.com/edinfusion/edinfusion/blob/main/text2.gif">
@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img width="480" height="270" src="https://github.com/edinfusion/EdinMV/blob/master/giphy.gif">
+  <img width="480" height="270" src="https://github.com/edinfusion/edinfusion/blob/main/giphy.gif">
 </p>
 - 👋 Hi, I’m @edinfusion
 - 👀 I’m interested in ...
