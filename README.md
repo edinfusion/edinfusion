@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="480" height="270" src="https://github.com/edinfusion/edinfusion/blob/main/edin.gif">
+  <img width="480" height="270" src="https://github.com/edinfusion/edinfusion/blob/main/text2.gif">
 </p>
 
 
