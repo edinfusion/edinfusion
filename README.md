@@ -1,10 +1,10 @@
 <p align="center">
-  <img width="480" height="270" src="https://github.com/edinfusion/edinfusion/blob/master/personalGif.gif">
+  <img width="480" height="270" src="https://github.com/edinfusion/EdinMV/blob/master/personalGif.gif">
 </p>
 
 
 <p align="center">
-  <img width="480" height="270" src="https://github.com/edinfusion/edinfusion/blob/master/giphy.gif">
+  <img width="480" height="270" src="https://github.com/edinfusion/EdinMV/blob/master/giphy.gif">
 </p>
 - 👋 Hi, I’m @edinfusion
 - 👀 I’m interested in ...
